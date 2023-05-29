@@ -3,7 +3,7 @@
 Splashy is an Android application that demonstrates the implementation of a splash screen using the `androidx.core:core-splashscreen` library. This app serves as a practice homework assignment to understand splash screen implementation, handling intents, and activity lifecycle in Android.
 
 ## Demonstration
-<img height="800" src="./Splashy_Screen.mp4" alt="demo of the app" />
+<img height="800" src="./Splashy_Screen.gif" alt="demo of the app" />
 
 
 ## Features
